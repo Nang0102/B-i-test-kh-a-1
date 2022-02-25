@@ -1,0 +1,46 @@
+
+.img{
+    margin-left: 15%;
+    height: 80px;
+ }
+ h2{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 60px;
+     display: grid;
+     background-color: rgb(184, 15, 15);
+     color: white;
+     text-align: center;
+     padding: 50px;
+     margin: 0%;
+ 
+ }
+ .container{
+     background-color: rgb(59, 230, 173);
+     height: 300px;
+     margin-top: 0%;
+     
+ }
+ .text{
+     text-align: center;
+     font-size: 24px;
+     padding: 15px;
+     
+ }
+ .item{
+     text-align:center;
+     
+ }
+ #inputText{
+     height: 36px;
+ }
+ #myBtn{
+     height: 40px;
+     background-color: blueviolet;
+ }
+ .footer{
+     text-align: center;
+     margin-bottom: 20px;
+     font-size: 20px;
+     padding: 20px;
+ } 
+ 
